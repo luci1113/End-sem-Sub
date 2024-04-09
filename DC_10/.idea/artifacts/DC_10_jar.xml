@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DC_10:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DC_10_jar</output-path>
+    <root id="archive" name="DC_10.jar">
+      <element id="module-output" name="DC_10" />
+      <element id="extracted-dir" path="C:/hadoop-3.3.6/share/hadoop/common/hadoop-common-3.3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/hadoop-3.3.6/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
